@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Asus Zenfone Max Pro M1 -->
+    <project name="9cf72c8/orfox_device_asus_X00TD" path="device/asus/X00TD" remote="private" />
+    <project name="9cf72c8/rebased_kernel_asus_X00TD" path="kernel/asus/X00TD" remote="private" revision="lineage-23.2" />
+</manifest>

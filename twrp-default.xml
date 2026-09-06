@@ -118,4 +118,5 @@
 
     <!-- LAST: Remove unused projects for minimal manifest -->
     <include name="remove-minimal.xml"/>
+    <include name="atiga.xml"/>
 </manifest>
